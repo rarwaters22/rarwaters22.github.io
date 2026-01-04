@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RAR Waters Backup Tour</title>
+  <!-- Basic styling -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background: #004aad;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .btn-main {
+      display: inline-block;
+      background: #007bff;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      font-size: 1.1rem;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1rem;
+    }
+    .btn-main:hover {
+      background: #0056b3;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #ddd;
+      margin-top: 3rem;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to RAR Waters Backup Tour</h1>
+    <p>Explore the latest updates, schedule & events!</p>
+  </header>
+
+  <div class="container">
+    <!-- Main link -->
+    <p style="text-align:center;">
+      <a class="btn-main" href="https://rarwaters.gotbackuptour.com/" target="_blank">
+        Go To RAR Waters Backup Tour
+      </a>
+    </p>
+
+    <!-- Optional: embed the site if allowed -->
+    <iframe src="https://rarwaters.gotbackuptour.com/" title="RAR Waters Backup Tour"></iframe>
+
+    <p>
+      If the embedded content does not load, just click the button above to open the tour site in a new tab.
+    </p>
+  </div>
+
+  <footer>
+    © 2026 RAR Waters Backup Tour • Built with ❤️
+  </footer>
+
+</body>
+</html>
